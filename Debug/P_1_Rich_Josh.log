@@ -1,0 +1,4 @@
+﻿  P_1_Rich_Josh.cpp
+c:\users\usr\practice proj\cpp stuff\p_1_rich_josh\p_1_rich_josh\src\p_1_rich_josh.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\usr\practice proj\cpp stuff\p_1_rich_josh\p_1_rich_josh\src\p_1_rich_josh.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  P_1_Rich_Josh.vcxproj -> C:\Users\usr\practice proj\cpp stuff\P_1_Rich_Josh\P_1_Rich_Josh\.\bin\P_1_Rich_Josh.exe
